@@ -1,6 +1,6 @@
 # legal
 
-Public privacy policies and terms for apps by Mehank Visionary Solutions Pvt Ltd,
+Public privacy policies and terms for apps by Mehank Visionary Solutions Private Limited,
 served with GitHub Pages at https://ankitbhardwajankit-creator.github.io/legal/
 
 **This repo is public. It holds only these pages: no code, no keys, nothing else.**
